@@ -1,0 +1,15 @@
+{
+  "version": "1.0.1",
+  "description": "Quickly spot-check any USB mass storage drive for fraudulent deliberately missing storage.",
+  "license": "Unknown",
+  "url": "https://www.grc.com/files/validrive.exe",
+  "homepage": "https://www.grc.com/validrive.htm",
+  "bin": "validrive.exe",
+  "extract_dir": "validrive",
+  "shortcuts": [
+    [
+      "validrive.exe",
+      "Validrive"
+    ]
+  ]
+}
